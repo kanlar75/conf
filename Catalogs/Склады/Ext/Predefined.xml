@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogPredefinedItems" version="2.17">
+	<Item id="bd60979b-ba8e-4272-bb0d-b842239871f2">
+		<Name>СкладМатериалов</Name>
+		<Code>000000002</Code>
+		<Description>Склад материалов</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="7b62aaba-c97e-427f-ad25-24f2c9dd965b">
+		<Name>СкладСырья</Name>
+		<Code>000000001</Code>
+		<Description>Склад сырья</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+</PredefinedData>
